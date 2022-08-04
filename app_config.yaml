@@ -9,6 +9,8 @@ config:
       - or
       - te
       - bn
+      - mr
+      - en
     gpu:
       count: 0
       accelerator: ''
